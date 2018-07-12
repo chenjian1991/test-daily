@@ -1,0 +1,16 @@
+.arrrow{
+    width:0px;
+    height: 0px;
+    margin:0 auto;
+    border-left:10px solid transparent;
+    border-right: 10px solid transparent;
+    border-top:10px solid blue;
+}
+.arrrow::after{
+    width:0px;
+    height: 0px;
+    margin:0 auto;
+    border-left:10px solid transparent;
+    border-right: 10px solid transparent;
+    border-top:10px solid blue;
+}
